@@ -1,0 +1,10 @@
+.book {
+  border: 1px solid lightgrey;
+  border-radius: 15px;
+}
+.book img {
+  width: 100%;
+}
+label {
+  display: block;
+}
